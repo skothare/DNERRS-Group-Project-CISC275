@@ -1,12 +1,16 @@
 
 
-# FinalProject11-5
+### FinalProject11-5
 Final project Estuary Adventure from team 11-5
 Our project is an educational game about estuaries. In our game, players control a robot character,
 whose job it is to distinguish between trash and recycling, and appropriately remove each from the water before it enters the estuary,
 while leaving the animals in the water to return to their estuary habitat. This game relies on the principle of estuary education that humans have an impact on estuarine environments, and therefore have a responsibility to keep them clean to avoid hurting animals or damaging the important ecosystem. The game is 2 minutes in length, and finishes when the time is up.
 
-References:
+# Acknowledgement
+This software project was accomplished as part of the CISC275 Spring 2018 Delaware National Estuarine Research Reserve project.
+Group members: Andrew Riegner, Sumeet Kothare, Tong Zhao, Arnav Bindra, Woody Hu
+
+# References:
 [Photograph]. (2014). Retrieved from http://www.wallpapers4u.org/wp-content/uploads/wooden_planks_vertical_9664_1920x1080.jpg
 
 [ClipArt]. (2018). Retrieved from http://thetrashpack.wikia.com/wiki/Trash_Bag_Goblin
